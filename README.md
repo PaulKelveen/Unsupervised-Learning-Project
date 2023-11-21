@@ -10,7 +10,7 @@ The following tasks were carried out in the course of the project:
 
 -	Exploratory data analysis and pre-processing: The datset was imported alongside necessary libraries and initial exploratory analysis was carried out on the data. The following was done:<br>
   - Used a heat map to understand and visualize the relationships between the different variables.<br>
- 	- Identify and handle missing values.<br>
+  - Identify and handle missing values.<br>
  	- Used a box plot to identify outliers and z-score to handle outliers.<br>
  	- Used a histogram to understand the current data distribution and applied log transformation to handle long-tailed data distributions.<br>
  	- Standardized the dataset to a mean of 0 and a variance of 1.<br>
