@@ -1,4 +1,4 @@
-# machine_learning_project-unsupervised-learning
+# Machine Learning : Unsupervised Learning
 
 ## Project Outcomes
 - This project was carried out using Unsupervised Learning. The objective of the project is to perform unsupervised learning techniques on a wholesale data dataset with the aim of understanding hidden patterns in the dataset and communicate findings using appropriate visualizations. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
