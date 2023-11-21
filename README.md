@@ -30,8 +30,8 @@ The following tasks were carried out in the course of the project:
 **Conclusions**
 As earlier highlighted, the ultimate goal of the project is to gain insights from the data sets and communicate these insights using appropriate visualizations and metrics. The following was deduced from the unsupervised learning of the dataset:<br>
 
-    - No noise was identified. All available columns within the dataset provides some insights to the entire story as             observed by carried out PCA Analysis.<br>
-    - In line with the PCA Analysis, optimal number of clusters could not be defined. As observed by the Elbow graph, the         data points does not converge at any specific point.<br>
-    - Also, there was no observable correlation between the descriptive statistics (mean etc) of each cluster of the               features in the dataset. This tells us that there is no cleary defined clusters in the dataset.<br>
-    - The dendogram reveals that at a high level, there are two broad grouping of data.<br>
-    - In summary, we are unable to highlight any patterns from the dataset. <br>
+- No noise was identified. All available columns within the dataset provides some insights to the entire story as observed by carried out PCA Analysis.<br>
+- In line with the PCA Analysis, optimal number of clusters could not be defined. As observed by the Elbow graph, the data points does not converge at any specific point.<br>
+- Also, there was no observable correlation between the descriptive statistics (mean etc) of each cluster of the    features in the dataset. This tells us that there is no cleary defined clusters in the dataset.<br>
+- The dendogram reveals that at a high level, there are two broad grouping of data.<br>
+- In summary, we are unable to highlight any patterns from the dataset. <br>
