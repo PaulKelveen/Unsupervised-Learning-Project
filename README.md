@@ -8,7 +8,7 @@
 The data set for this project is the "Wholesale Data" dataset containing information about various products sold by a grocery store.
 The following tasks were carried out in the course of the project:
 
--	Exploratory data analysis and pre-processing: The datset was imported alongside necessary libraries and initial exploratory analysis was carried out on the data. The following was done:
+-	Exploratory data analysis and pre-processing: The datset was imported alongside necessary libraries and initial exploratory analysis was carried out on the data. The following was done:/n
   - Used a heat map to understand and visualize the relationships between the different variables.
  	- Identify and handle missing values.
  	- Used a box plot to identify outliers and z-score to handle outliers,
