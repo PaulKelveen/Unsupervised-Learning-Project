@@ -9,23 +9,23 @@ The data set for this project is the "Wholesale Data" dataset containing informa
 The following tasks were carried out in the course of the project:
 
 -	Exploratory data analysis and pre-processing: The datset was imported alongside necessary libraries and initial exploratory analysis was carried out on the data. The following was done:
-  -Used a heat map to understand and visualize the relationships between the different variables.
- 	-Identify and handle missing values.
- 	-Used a box plot to identify outliers and z-score to handle outliers,
- 	-Used a histogram to understand the current data distribution and applied log transformation to handle long-tailed data distributions.
- 	-Standardized the dataset to a mean of 0 and a variance of 1.
- 	-Used PCA analysis to highlight important variables and reduce noise in the dataset.
+  - Used a heat map to understand and visualize the relationships between the different variables.
+ 	- Identify and handle missing values.
+ 	- Used a box plot to identify outliers and z-score to handle outliers,
+ 	- Used a histogram to understand the current data distribution and applied log transformation to handle long-tailed data distributions.
+ 	- Standardized the dataset to a mean of 0 and a variance of 1.
+ 	- Used PCA analysis to highlight important variables and reduce noise in the dataset.
   
 -	KMeans Clustering: The goal here is to group similar products together into clusters based on their attributes. The following was carried out:
-  -Used the Elbow method to determine the optimal number of clusters.
- 	-Initialized the centroids and assigned data points to clusters.
- 	-Used decriptive statistics to understand the characteristics of each cluster.
+  - Used the Elbow method to determine the optimal number of clusters.
+ 	- Initialized the centroids and assigned data points to clusters.
+ 	- Used decriptive statistics to understand the characteristics of each cluster.
 
 - Hierarchical Clustering: The goal here is to identify patterns and group similar data points together in a hierarchy. The following was carried out:
-  -Created a dendogram to understand the patterns in the data and see grouping of datasets.
+  - Created a dendogram to understand the patterns in the data and see grouping of datasets.
 
 - PCA Analysis:
-  -Created a scatter plot to draw conclusions about the underlying structure of the data.
+  - Created a scatter plot to draw conclusions about the underlying structure of the data.
 
 **Conclusions**
 As earlier highlighted, the ultimate goal of the project is to gain insights from the data sets and communicate these insights using appropriate visualizations and metrics. The following was deduced from the unsupervised learning of the dataset:
